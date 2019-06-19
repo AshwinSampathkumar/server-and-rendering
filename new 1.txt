@@ -1,7 +1,7 @@
 Server:
 	Computers in the network that provides required services to the client (other devices on the network).
 	Can provide many functions like
-		web and http services
+		web services
 		email services
 		authentication services and so on.
 Client Side rendering:
